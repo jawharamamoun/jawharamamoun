@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+ <img width="480" height="360" alt="Girl Coding GIF" src="https://github.com/user-attachments/assets/dfa5da52-082a-4147-8931-6e9fe760691d" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jay</h1>
